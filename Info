@@ -1,0 +1,12 @@
+Abstract:
+->Emotion detection contributes for a large domain of research. With this project I've Successfully detected and classified the assorted 
+  emotions of a person based on his/her physiological signals such as body temperature, heart rate, skin resistance and pulse wave with the help of IOT sensors such as
+  Galvanic Skin Resistance Sensor,Heart Rate Sensor and Body Temperature Sensor.
+->The most basic emotions extracted  are relaxed, happy, angry and sad.  
+
+Applications:
+.Autonomous Cars
+.Professional Field
+.Medical Field
+
+
